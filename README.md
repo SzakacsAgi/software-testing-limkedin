@@ -1,1 +1,1 @@
-# software-testing-limkedin
+# unideb-szoftverteszteles
